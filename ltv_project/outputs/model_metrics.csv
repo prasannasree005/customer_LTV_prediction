@@ -1,0 +1,5 @@
+,MAE,RMSE,R2,CV_RMSE(train)
+Random Forest,51.93,83.393,0.183,113.914
+GradientBoosting (XGBoost fallback),52.984,88.932,0.07,118.881
+Mean baseline,68.215,93.162,-0.02,130.537
+Run-rate heuristic,101.68,158.753,-1.962,

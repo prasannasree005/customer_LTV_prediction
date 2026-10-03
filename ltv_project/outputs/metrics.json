@@ -1,0 +1,9 @@
+{
+  "best_model": "Random Forest",
+  "holdout": {
+    "MAE": 51.93,
+    "RMSE": 83.393,
+    "R2": 0.183
+  },
+  "top10pct_revenue_capture": 0.35091573736318465
+}
